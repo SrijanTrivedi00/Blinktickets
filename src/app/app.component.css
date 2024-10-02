@@ -1,0 +1,24 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    position:cover;
+    justify-content: center;
+    justify-items: center;
+}
+    .hero-section {
+      display: flex;
+      justify-content: space-between;
+      position:cover;
+      background-color: #f7f7f7;
+      
+    }
+  
+      input {
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        margin-left: 10px;
+      }
+    
